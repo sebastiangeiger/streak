@@ -1,0 +1,10 @@
+[package]
+
+name = "streak"
+version = "0.0.1"
+authors = ["Sebastian Geiger"]
+
+[dependencies]
+hyper = "0.3.0"
+[dependencies.html5ever]
+git = "https://github.com/servo/html5ever"
